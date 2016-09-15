@@ -1,7 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Alex
- * Date: 15.09.2016
- * Time: 15:24
- */
+$a = ['html', 'css', 'php', 'js', 'jq'];
+foreach ($a as $b){
+    echo $b . '<br>';
+}
